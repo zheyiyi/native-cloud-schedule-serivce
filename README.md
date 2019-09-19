@@ -1,29 +1,23 @@
 
-## 项目界面预览
 
-### 1. 首页
+
+### 1. webpage
 
 ![landing page](doc/images/landing_page.jpg)
 
-### 2. 订购计划和价格页
+### 2. plan and price page
 
 ![plan and price](doc/images/plan_and_price.jpg)
 
-### 3. 登录页
+### 3. login in
 
 ![login page](doc/images/login_page.jpg)
 
-### 4. 雇员账户管理SPA单页应用
+### 4. employee SPA page application
 
 ![account edit page](doc/images/account_edit_page.jpg)
 
-### 5. 我的公司SPA单页应用
+### 5. company SPA page application
 
 ![scheduling page](doc/images/scheduling_page.jpg)
 
-
-## 其它可供参考微服务案例项目
-
-* [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) 微软支持
-* [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) 谷歌支持
-* [piggy-metrics](https://github.com/sqshq/piggymetrics)
